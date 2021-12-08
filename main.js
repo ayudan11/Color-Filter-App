@@ -15,7 +15,7 @@ function draw(){
     tint(tint_color);
 }
 
-function take_snapsshot(){
+function take_snapshot(){
     save('Image.png');
 }
 
