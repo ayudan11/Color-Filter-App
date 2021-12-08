@@ -16,7 +16,7 @@ function draw(){
 }
 
 function take_snapshot(){
-    save('Image.png');
+    save('Student_name.png');
 }
 
 function filter_tint(){
